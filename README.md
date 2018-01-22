@@ -76,6 +76,9 @@ IMPORTANT: you must add 1 to the corners for visualization as Matlab is 1-based.
 For additional details please consult our [paper](https://research.fb.com/publications/deltille-grids-for-geometric-camera-calibration)
  or contact the authors.
 
+## Deltille detector dataset
+The robot hand and fisheye images dataset used in the paper can be found in the related [repository](https://github.com/facebookincubator/deltille-dataset).
+
 ## License
 Deltille detector code is licensed under the LGPL v2.1 license. For more
 information, please see COPYING file.
